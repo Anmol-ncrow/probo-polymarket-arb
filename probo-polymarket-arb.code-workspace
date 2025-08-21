@@ -1,0 +1,26 @@
+{
+  "folders": [
+    {
+      "name": "Probo Polymarket Arbitrage Bot",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "typescript.preferences.quoteStyle": "double",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit"
+    },
+    "typescript.suggest.autoImports": true,
+    "typescript.updateImportsOnFileMove.enabled": "always"
+  },
+  "extensions": {
+    "recommendations": [
+      "ms-vscode.vscode-typescript-next",
+      "esbenp.prettier-vscode",
+      "ms-vscode.vscode-json",
+      "ms-vscode.vscode-eslint",
+      "oven.bun-vscode"
+    ]
+  }
+}
